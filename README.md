@@ -32,7 +32,7 @@ Abaixo estão os pinos configurados no código:
 | **Botão Andar 0** | Analógico A0 |
 | **Botão Andar 1** | Analógico A1 |
 | **Botão Andar 2** | Analógico A2 |
-| **Servo (Sinal)** | Digital 9 |
+| **Servo (Sinal)** | Digital 6 |
 | **LCD (SDA)** | Analógico A4 |
 | **LCD (SCL)** | Analógico A5 |
 
