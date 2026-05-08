@@ -9,7 +9,7 @@ Servo portaServo;
 // Definição dos Pinos
 const int leds[] = {2, 4, 7};        // LED 0 no pino 2, LED 1 no pino 4, LED 2 no pino 7
 const int botoes[] = {A0, A1, A2};   // Botões nos pinos A0, A1 e A2
-const int pinoServo = 9;             // Servo no pino 9
+const int pinoServo = 6;             // Servo no pino 6
 
 int andar_atual = 0;
 
