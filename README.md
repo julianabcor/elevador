@@ -4,7 +4,7 @@ Este projeto consiste numa simulação funcional de um elevador de 3 andares uti
 
 ## 🚀 Funcionalidades
 
-- **Controlo de 3 Andares:** Botões dedicados para os andares 0 (Térreo), 1 e 2.
+- **Controle de 3 Andares:** Botões dedicados para os andares 0 (Térreo), 1 e 2.
 - **Interface Visual:** LCD 16x2 que exibe o estado atual (Subindo, Descendo, Porta Aberta, etc.).
 - **Indicadores Luminosos:** LEDs que identificam em que andar o elevador está parado.
 - **Automação da Porta:** Servomotor que abre e fecha automaticamente ao chegar ao destino.
@@ -37,13 +37,14 @@ Abaixo estão os pinos configurados no código:
 | **LCD (SCL)** | Analógico A5 |
 
 
-🛠️ Como Instalar
-Clone o repositório.
+## 🛠️ Como Instalar
 
-Abra o ficheiro na Arduino IDE.
+- Clone o repositório.
 
-Instale a biblioteca LiquidCrystal I2C (por Frank de Brabander).
+- Abra o ficheiro na Arduino IDE.
 
-Ligue os componentes conforme o esquema.
+- Instale a biblioteca LiquidCrystal I2C (por Frank de Brabander).
 
-Faça o Upload para a sua placa.
+- Ligue os componentes conforme o esquema.
+
+- Faça o Upload para a sua placa.
